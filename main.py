@@ -98,22 +98,69 @@
 # else:
 #     print("Qiymat xato kiritildi!")
 
+##Copy, not from AI
+
 
 ##8-masala
+# rain = int(input("Yomg'ir yog'ish ehtimolini kiriting: "))
+# temperature = int(input("Havo haroratini kiriting: "))
 
+# if rain >= 70:
+#     print("Uyda qoling")
+# elif rain < 70 and temperature < 5:
+#     print("Juda sovuq, sayr qilish tavsiya etilmaydi")
+# else:
+#     print("Ajoyib kun, sayrga boring!")
+
+##O'zim yazganman!!!!!
 
 
 ##9-masala
+# salary = int(input("Maoshni kiriting: "))
+# cost = int(input("Xarajatlarni kiriting: "))
+# if cost > salary:
+#     print("Xavfli! Xarajatlarni kamaytiring")
+# elif salary == cost:
+#     print("Aynan yetarli")
+# else:
+#     print("Ajoyib! Tejamkorlik qilyapsiz")
 
+##O'zim ishladim!!!
 
 
 ##10-masala
+# velosiped = input('Velosiped turini kiriting ("shahar" yoki "sport"): ')
+# vaqt = int(input("Ijaraga olingan vaqtni kiriting: "))
+
+# city = ["shahar", "shaxar"]
+
+# if  velosiped == city: ## yoki if velosiped in city:
+#     print()
+
+##.........
+
 
 
 ##11-masala
+# olma_vesi = int(input("Olma vaznini kiriting: "))
+# olma_korinishi = input("Olma ko'rinishini kiriting (yaxshi/yomon): ")
+
+# if olma_korinishi == "yomon":
+#     print("Past sifat")
+# elif olma_vesi < 100:
+#     print("Rad etiladi!")
+# elif olma_vesi >= 200:
+#     print("Premium")
+# else:
+#     print("Standart")
+
+
+##O'zim yazdim kodi!!!
 
 
 ##12-masala
+
+
 
 
 ##13-masala
