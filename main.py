@@ -98,7 +98,7 @@
 # else:
 #     print("Qiymat xato kiritildi!")
 
-##Copy, not from AI
+##Copied, but not from AI
 
 
 ##8-masala
@@ -159,11 +159,20 @@
 
 
 ##12-masala
+# summa = int(input("Xarid summasini kiriting: "))
+# soat = int(input("Hozirgi soatni kiriting (0-23): "))
 
-
+# if summa >= 100000 and 18 <= soat <= 22:
+#     print("15% chegirma")
+# elif summa >= 50000 and 10 <= soat < 18:
+#     print("10% chegirma")
+# else:
+#     print("Chegirma yo'q")
 
 
 ##13-masala
+
+
 
 
 ##14-masala
